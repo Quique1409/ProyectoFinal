@@ -1,5 +1,5 @@
 //Practica para examen
-
+//Este no es del proyecto papito no lo copies jajaja
 #include <stdio.h>
 
 int main(){
